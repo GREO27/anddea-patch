@@ -1,4 +1,4 @@
-# 🎥 YouTube & YouTube Music Mod 🎶
+# 🎥 YouTube & YouTube Music anddea 🎶
 
 This repository contains modified versions of **YouTube** and **YouTube Music** built using **Andea Patch**. These mods provide enhanced features not available in the official apps, offering a better user experience.
 
