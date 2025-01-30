@@ -22,7 +22,7 @@ This repository contains modified versions of **YouTube** and **YouTube Music** 
 ---
 
 ## 📥 **Installation**
-1. Download the APK file from the [Releases](https://github.com/username/repo-name/releases) section.
+1. Download the APK file from the [Releases](https://github.com/GREO27/anddea-patch/releases) section.
 2. Install the APK on your Android device.
 3. Enjoy the enhanced features! 🎉
 
