@@ -6,14 +6,14 @@ This repository contains modified versions of **YouTube** and **YouTube Music** 
 
 ## 🚀 **Features**
 
-### **YouTube Mod**
+### **YouTube**
 - 🚫 **Ad-free**: No more annoying ads.
 - 📱 **Background Play**: Play videos in the background.
 - 🔒 **Lock Screen Play**: Play videos with the screen locked.
 - 🎬 **Force Resolution**: Force specific video resolutions.
-- ⏭️ **Sponsor Block**: Skip sponsored segments in videos.
+- ⏭️ **SponsorBlock**: Skip sponsored segments in videos.
 
-### **YouTube Music Mod**
+### **YouTube Music**
 - 🚫 **Ad-free**: Enjoy music without interruptions.
 - 📱 **Background Play**: Play music in the background.
 - 🔒 **Lock Screen Play**: Play music with the screen locked.
