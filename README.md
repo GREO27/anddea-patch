@@ -47,4 +47,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 [ReVanced Team](https://github.com/revanced) for [MicroG](https://github.com/ReVanced/GmsCore/releases).
 
-[inotia00](https://github.com/anddea) for [anddea patches](https://github.com/anddea/revanced-patches).
+[anddea](https://github.com/anddea) for [anddea patches](https://github.com/anddea/revanced-patches).
